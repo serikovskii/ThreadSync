@@ -1,0 +1,7 @@
+C:\Users\мукушева\source\repos\SynchronizationLesson\SynchronizationLesson\bin\Debug\SynchronizationLesson.exe.config
+C:\Users\мукушева\source\repos\SynchronizationLesson\SynchronizationLesson\bin\Debug\SynchronizationLesson.exe
+C:\Users\мукушева\source\repos\SynchronizationLesson\SynchronizationLesson\bin\Debug\SynchronizationLesson.pdb
+C:\Users\мукушева\source\repos\SynchronizationLesson\SynchronizationLesson\obj\Debug\SynchronizationLesson.csprojAssemblyReference.cache
+C:\Users\мукушева\source\repos\SynchronizationLesson\SynchronizationLesson\obj\Debug\SynchronizationLesson.csproj.CoreCompileInputs.cache
+C:\Users\мукушева\source\repos\SynchronizationLesson\SynchronizationLesson\obj\Debug\SynchronizationLesson.exe
+C:\Users\мукушева\source\repos\SynchronizationLesson\SynchronizationLesson\obj\Debug\SynchronizationLesson.pdb

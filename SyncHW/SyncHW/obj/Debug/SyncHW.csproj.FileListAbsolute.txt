@@ -1,0 +1,7 @@
+C:\Users\мукушева\source\repos\SyncHW\SyncHW\obj\Debug\SyncHW.csprojAssemblyReference.cache
+C:\Users\мукушева\source\repos\SyncHW\SyncHW\obj\Debug\SyncHW.csproj.CoreCompileInputs.cache
+C:\Users\мукушева\source\repos\SyncHW\SyncHW\bin\Debug\SyncHW.exe.config
+C:\Users\мукушева\source\repos\SyncHW\SyncHW\bin\Debug\SyncHW.exe
+C:\Users\мукушева\source\repos\SyncHW\SyncHW\bin\Debug\SyncHW.pdb
+C:\Users\мукушева\source\repos\SyncHW\SyncHW\obj\Debug\SyncHW.exe
+C:\Users\мукушева\source\repos\SyncHW\SyncHW\obj\Debug\SyncHW.pdb
